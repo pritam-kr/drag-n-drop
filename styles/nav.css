@@ -1,0 +1,12 @@
+.nav {
+    box-shadow: var(--box-shadow);
+    border-bottom: 1px var(--primary-border-color);
+    padding: var(--primary-padding);
+    min-height: 60px;
+    font-size: var(--primary-font-size);
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+  }
